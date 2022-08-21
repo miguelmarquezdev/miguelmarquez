@@ -18,31 +18,31 @@ const data =[
     id:2,
     image:IMG2,
     title:'Machu Picchu Andean E.I.R.L.',
-    demo:'https://incatrailmachupicchu.net/es'
+    demo:'https://machupicchu-andean.com'
   },
   {
     id:3,
     image:IMG3,
     title:'Happy Gringo Tours',
-    demo:'https://incatrailspecialist.com/'
+    demo:'https://happygringotours.com/'
   },
   {
     id:4,
     image:IMG4,
     title:'Inca Trail to Machu Picchu',
-    demo:'https://incatrailspecialist.com/'
+    demo:'https://incatrailmachupicchu.net/'
   },
   {
     id:5,
     image:IMG5,
     title:'Elvis Adventures',
-    demo:'https://incatrailspecialist.com/'
+    demo:'https://elvisadventures.com/'
   },
   {
     id:6,
     image:IMG6,
     title:'Machu Picchu Tours',
-    demo:'https://incatrailspecialist.com/'
+    demo:'https://machupicchu-tours.com/'
   },
 ]
 const Portfolio = () => {
